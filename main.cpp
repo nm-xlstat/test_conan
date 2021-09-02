@@ -2,7 +2,7 @@
 //
 
 #include <iostream>
-#include "../print/framework.h"
+#include "framework.h"
 
 using namespace std;
 
